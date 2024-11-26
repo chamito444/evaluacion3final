@@ -1,0 +1,77 @@
+{
+  "clasesj": [
+    {
+      "imagen": "/assets/img/matematicabasica.jpg",
+      "nombre": "matematica basica",
+      "descripcion": "es una clase de matematica",
+      "asignatura": "matematica",
+      "fecha": "24-10-2024",
+      "horario": "3.50 pm - 5.10 pm, 26/8/2024",
+      "id": "bced"
+    },
+    {
+      "imagen": "/assets/img/programacionbasica.webp",
+      "nombre": "programacion basica",
+      "descripcion": "es una clase de programacion",
+      "asignatura": "programacion",
+      "fecha": "23-10-2024",
+      "horario": "2.30 pm - 3.50 pm, 24/3/2024",
+      "id": "8401"
+    }
+  ],
+  "profesorj": [
+    {
+      "nombreprofesor": "julio caseres",
+      "rutprofesor": "21665432-1",
+      "correoprofesor": "juliocaseres@duoc.com",
+      "id": "0155"
+    },
+    {
+      "nombreprofesor": "maria gonzalez",
+      "rutprofesor": "22535432-2",
+      "correoprofesor": "mariagonzalez@duoc.com",
+      "id": "94f4"
+    }
+  ],
+  "justificacionj": [
+    {
+      "imagen": "/assets/img/imagenjustificativo1.webp",
+      "asignatura": "matematica",
+      "fecha": "25-10-1024",
+      "descripcion": "justificacion de clase matematica por transmites, faltoo porque mis familia salio hoy y me tengo que quedar con mis sobrinos profe",
+      "claseprofesor": "julio caseres",
+      "id": "99be"
+    },
+    {
+      "imagen": "/assets/img/justificativo2.jpg",
+      "asignatura": "programacion",
+      "fecha": "27-10-1024",
+      "descripcion": "justificacion de clase programacion por transmites, falto porque tengo que ir a ver al dentista profe",
+      "claseprofesor": "maria gonzalez",
+      "id": "81be"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "username": "usuario1",
+      "password": "duoc1234",
+      "email": "usuario1@mail.cl",
+      "isactive": true
+    },
+    {
+      "id": "2",
+      "username": "usuario2",
+      "password": "maipu1234",
+      "email": "usuario2@mail.cl",
+      "isactive": true
+    },
+    {
+      "id": "b1f5",
+      "username": "chamito",
+      "email": "ichavix2@gmail.com",
+      "password": "casaprueba2",
+      "isactive": true
+    }
+  ]
+}
